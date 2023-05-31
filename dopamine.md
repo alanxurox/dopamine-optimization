@@ -1,4 +1,4 @@
-# Topic Name
+# Dopamine
 
 ## Definition/Explanation
 Dopamine is a neurotransmitter that plays a significant role in reward, pleasure, motivation, and drive.
